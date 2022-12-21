@@ -2,7 +2,7 @@
 title: "\"JSEC 2022\" に参加してきました"
 date: 2022-12-21T22:00:00+09:00
 categories:
-  - blog
+  - diary
 tags:
   - 2022年
   - JSEC
