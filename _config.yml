@@ -55,10 +55,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-twitter-plugin
 
 author:
-  name   : "Sasakura ayato"
+  name   : "佐桜 彩斗"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A Senior High School Student."
   links:
