@@ -93,6 +93,8 @@ defaults:
       comments: true
       share: true
       related: true
+      permalink: /:categories/:year-:month-:day/:slug
+
   # _pages
   - scope:
       path: "_pages"
