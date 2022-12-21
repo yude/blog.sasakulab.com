@@ -1,5 +1,5 @@
 ---
-title: "JSEC 日記"
+title: "\"JSEC 2022\" に参加してきました"
 date: 2022-12-21T22:00:00+09:00
 categories:
   - blog
@@ -8,31 +8,31 @@ tags:
   - JSEC
 ---
 
-12月10日（土）、11日（日）、日本科学未来館（東京都）で行われた「**第20回 高校生・高専生科学技術チャレンジ**」に参加してきました。
+12月10日（土）～ 11日（日）、日本科学未来館（東京都）で行われた「**第20回 高校生・高専生科学技術チャレンジ**」に参加してきました。
 
 そのときの思いをせっかくなので文章に残しておこうと思い、ここで書くことにします。
 
 ## 1. 前日
 
-<img src="/assets/img/2022/jsec-diary-001.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-001.JPG" width="400px">
 
 当日の朝早くから向かうのは、少しタイトなスケジュールになりそうだったので、私たちは前のりすることにしました。
 
-隣の席の女性が、飲食店の社長でいらっしゃったようで、経営に関するさまざまなお話を聞いたり、激励を頂いたりしました。とても面白かったです。**書けませんが。**
+隣の席の女性が、飲食店の社長でいらっしゃったようで、経営に関するさまざまなお話を聞いたり、激励を頂いたりしました。とても面白かったです。**ここには書けませんが。**
 
 東京はおよそ8か月ぶり（8か月のスパンで別の研究発表をしているのもどうかしていますが）でしたが、都会は常に変わらずそこにありました。
 
-<img src="/assets/img/2022/jsec-diary-002.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-002.JPG" width="400px">
 
 浜松町駅→（大江戸線）→勝どき駅 でいったん[ホテル](https://www.kensyu.jp) にチェックインし、そこから上野駅まで電車に揺られ、ヨドバシカメラ（マルチメディア上野店）へ寄り道しました。
 
 私たちはとくに何も買わず、そのまま夕食を食べました。
 
-<img src="/assets/img/2022/jsec-diary-003.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-003.JPG" width="400px">
 
 [焼きあご塩らー麺 たかはし](https://twitter.com/yakiago_ramen) の焼きあご塩らー麺、お茶漬けセット（1000円）です。おいしかったです。
 
-<img src="/assets/img/2022/jsec-diary-004.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-004.JPG" width="400px">
 
 ## 2. 当日
 
@@ -42,19 +42,19 @@ tags:
 
 ダッシュで取りに帰ります。本当に顧問とチームメンバーには申し訳ない限りです。いいかげんちゃんとしろ。
 
-<img src="/assets/img/2022/jsec-diary-005.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-005.png" width="400px">
 
 ~~そんなに走れてなくね？~~
 
 そんなこんなで、市場前駅→（ゆりかもめ）→テレコムセンター駅 を経由し、徒歩4分ほどで日本科学未来館に到着しました。
 
-<img src="/assets/img/2022/jsec-diary-006.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-006.JPG" width="400px">
 
 自動運転だそうです。すご。~~地元じゃ考えられないね~~。
 
 ### 会場
 
-<img src="/assets/img/2022/jsec-diary-007.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-007.JPG" width="400px">
 
 科学技術未来館の一室で、各チームがこのような机で Zoom につなげます。
 
@@ -64,19 +64,19 @@ tags:
 
 以下はその一部です。
 
-<img src="/assets/img/2022/jsec-diary-008.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-008.JPG" width="400px">
 
 お気に入りはこれと、（かわいい。なくなってない方のサクマ製菓のドロップスです。外の缶が協賛の JFE スチール様のスチールになっているらしいです）
 
-<img src="/assets/img/2022/jsec-diary-009.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-009.JPG" width="400px">
 
 これです（学校で盗まれたらバレます）
 
-<img src="/assets/img/2022/jsec-diary-010.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-010.JPG" width="400px">
 
 ### 審査
 
-{% twitter https://twitter.com/jsec_asahi/status/1601424766824349696 %}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">JSECの最終審査は、今日午後から始まります。<br>コロナ前は展示パネルを使って審査委員と対面でプレゼンする形でしたが、今回は、密を防ぐため、審査委員は基本的に大学やご自宅などから参加、オンラインで審査を頂きます。皆さん頑張ってください！<a href="https://twitter.com/hashtag/JSEC2022?src=hash&amp;ref_src=twsrc%5Etfw">#JSEC2022</a> <a href="https://t.co/ZaMvDnvJbF">pic.twitter.com/ZaMvDnvJbF</a></p>&mdash; JSEC／Japan Science &amp; Engineering Challenge (@jsec_asahi) <a href="https://twitter.com/jsec_asahi/status/1601424766824349696?ref_src=twsrc%5Etfw">December 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 審査は概ねこんな感じで進みます。
 
@@ -86,7 +86,7 @@ tags:
 
 デモをどうしてもしたかったのですが、リモートで実際に見せるのはそのままだと難しかったので、OBS Studio でシーンを作りまくり、3つの ウェブカメラを操ってました。
 
-(You|V)Tuber も真っ青です。
+VTuber も真っ青です。
 
 次は [9つのウェブカメラを操りたい](https://yhara.jp/2017/07/14/nine-c-languages)と思います。
 
@@ -98,7 +98,7 @@ tags:
 
 普段過ごす中ではあまり接することのない経歴、というより人生を過ごして来られた吉藤さんのお話はとっても興味深かったです。
 
-<img src="/assets/img/2022/jsec-diary-011.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-011.JPG" width="400px">
 
 表彰式はこのような会場で行われます。
 
@@ -112,7 +112,7 @@ tags:
 
 オリィさんもいらっしゃいました。でもやっぱり人気。話しかけることはできませんでした。
 
-{% twitter https://twitter.com/jsec_asahi/status/1601974152969482240 %}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は、JSECのOBである吉藤オリィさん<a href="https://twitter.com/origamicat?ref_src=twsrc%5Etfw">@origamicat</a><br>が会場にお越しくださって、研究の魅力や人との出会いについて、熱いメッセージを頂きました。ありがとうございました！<br>（撮影時のみマスクを外して頂きました）<a href="https://twitter.com/hashtag/JSEC2022?src=hash&amp;ref_src=twsrc%5Etfw">#JSEC2022</a> <a href="https://t.co/xxqe4wfhnc">pic.twitter.com/xxqe4wfhnc</a></p>&mdash; JSEC／Japan Science &amp; Engineering Challenge (@jsec_asahi) <a href="https://twitter.com/jsec_asahi/status/1601974152969482240?ref_src=twsrc%5Etfw">December 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 長髪が似合う男性ってかっこいいですよね。
 
@@ -124,24 +124,24 @@ tags:
 
 一眼レフカメラがほしくなりました。写真撮る才能ないんだからやめとけ。
 
-<img src="/assets/img/2022/jsec-diary-012.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-012.JPG" width="400px">
 
 ガンダムベースはこんな感じ。
 
-<img src="/assets/img/2022/jsec-diary-013.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary-013.JPG" width="400px">
 
 私はプラモデルをたしなみませんが、父親と弟が好きなので、限定品の[ザクⅡ](https://www.gundam-base.net/products/details.php?detail=4333)と、なんとなく[デミトレーナー](https://g-witch.net/mobile-suit/9/)を購入しました。
 
 ## ギャラリー
 
-<img src="/assets/img/2022/jsec-diary_g_002.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary_g_002.JPG" width="400px">
 
-<img src="/assets/img/2022/jsec-diary_g_003.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary_g_003.JPG" width="400px">
 
-<img src="/assets/img/2022/jsec-diary_g_004.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary_g_004.JPG" width="400px">
 
-<img src="/assets/img/2022/jsec-diary_g_005.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary_g_005.JPG" width="400px">
 
-<img src="/assets/img/2022/jsec-diary_g_006.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary_g_006.JPG" width="400px">
 
-<img src="/assets/img/2022/jsec-diary_g_007.JPG" width="400px">
+<img src="/assets/images/2022/jsec-diary_g_007.JPG" width="400px">
