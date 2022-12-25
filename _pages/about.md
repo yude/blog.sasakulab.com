@@ -5,9 +5,16 @@ title: "About"
 
 ## 著作権表記
 
-以下の著作権表記は、文章や写真、図版についてのものであり、引用を妨げる物ではありません。
+このサイトのコンテンツ（文章・写真・図版）には以下のライセンスを適用しています。
 
-(C) 2022 Sasakura Ayato, Sasakulab. All Rights Reserved.
+<img src="/assets/images/CC_BY-SA_Logo.png">
+
+- CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)
+- (C) 2022 Sasakura Ayato, Sasakulab.
+
+なお、もしあなたがよければ、私のコンテンツを引用したドキュメントやウェブページについて教えてください。
+
+よろこんで見に行きます。
 
 ## ホスティングサービス
 
