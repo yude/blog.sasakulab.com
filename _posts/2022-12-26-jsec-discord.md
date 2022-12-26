@@ -10,6 +10,8 @@ tags:
 
 過去に JSEC または ISEF に参加された経験のある方々、もしくは将来 JSEC に参加したいと思っている皆さま向けに Discord サーバーを開設しました。
 
+といっても、雑談メインで、アニメやマンガ、You / VTuber、サッカー、野球など幅広い題材を扱う予定です。（このページの下の「チャンネル」参照）
+
 なお、これは JSEC の公式のものではなく、有志のものであるため、問い合わせは**運営にしない**ようにお願い致します。
 
 ## 対象者
@@ -36,3 +38,7 @@ tags:
 [https://discord.gg/x5ArABhNSV](https://discord.gg/x5ArABhNSV)
 
 みなさんの参加をお待ちしております。
+
+## チャンネル
+
+<img src="/assets/images/2022/jsec-discord-001.png" width="300px">
