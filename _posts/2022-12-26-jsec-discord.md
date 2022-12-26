@@ -1,6 +1,6 @@
 ---
 title: "JSECer / ISEFer で交流するための Discord サーバーを作りました。"
-date: 2022-12-26T22:00:00+09:00
+date: 2022-12-26T18:00:00+09:00
 type: posts
 categories:
   - PR
