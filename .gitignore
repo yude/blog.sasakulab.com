@@ -1,4 +1,6 @@
-_site
+/_site/*
+!/_site/_redirects
+
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
