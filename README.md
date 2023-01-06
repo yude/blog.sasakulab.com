@@ -2,6 +2,16 @@
 
 [blog.sasakulab.com](https://blog.sasakulab.com)
 
+## Cloudflare Pages
+
+If you need to use `_redirects`, you have to paste this command. ok?
+
+```sh
+jekyll build && cp _redirects _site/_redirects
+```
+
+Help: [Information](https://developers.cloudflare.com/pages/platform/redirects)
+
 ## LICENSE
 
 - Code: MIT LICENSE

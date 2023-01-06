@@ -19,6 +19,8 @@ tags:
 
 このブログエントリで得た情報を利用して、利用規約および各種法令、公序良俗に反する行為を行わないでください。
 
+また、動作環境外でのソフトウェアの使用はサポートを受けることができません。自力解決しましょう。
+
 なお、このエントリで行った知識をユーザーが被った不利益については、筆者は責任を負いません。ご了承ください。
 
 ## Electron とは？
@@ -76,7 +78,7 @@ Wine は、インストールでコケる場合が多いので、Windows 環境�
 
 ### Wine をインストールする
 
-WineHQ をインストールします。[公式ページ](https://wiki.winehq.org/Download)にあるとおりにインストールすれば良いです。
+WineHQ をインストールします。[公式ページ](https://wiki.winehq.org/Download)に、あるとおりにインストールすれば良いです。
 
 以下に、Ubuntu 22.04 の場合のインストール方法を示します。
 
@@ -100,7 +102,7 @@ winecfg
 
 ### Windows バイナリが動作するか確かめる
 
-先ほどの Windows バイナリがあるフォルダに移動します。
+先ほどの Windows バイナリがあるフォルダーに移動します。
 
 そして、以下の通りに起動します。
 
@@ -169,7 +171,11 @@ StartupNotify=true
 ## おまけ
 
 [#すべての公式アプリをクロスプラットフォームにしろ](https://twitter.com/search?q=%23%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%97%E3%82%8D&src=typed_query)
+
 [#すべての公式アプリをLinuxに対応させろ](https://twitter.com/search?q=%23%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92Linux%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%95%E3%81%9B%E3%82%8D&src=typed_query&f=top)
+
 [#どうせElectronならLinuxに対応させろ](https://twitter.com/search?q=%23%E3%81%A9%E3%81%86%E3%81%9BElectron%E3%81%AA%E3%82%89Linux%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%95%E3%81%9B%E3%82%8D&src=typed_query&f=top)
+
 [#広島に秋月電子通商を](https://twitter.com/search?q=%23%E5%BA%83%E5%B3%B6%E3%81%AB%E7%A7%8B%E6%9C%88%E9%9B%BB%E5%AD%90%E9%80%9A%E5%95%86%E3%82%92&src=typed_query)
+
 [#ついでに山口にも秋月電子通商を](https://twitter.com/search?q=%23%E3%81%A4%E3%81%84%E3%81%A7%E3%81%AB%E5%B1%B1%E5%8F%A3%E3%81%AB%E3%82%82%E7%A7%8B%E6%9C%88%E9%9B%BB%E5%AD%90%E9%80%9A%E5%95%86%E3%82%92&src=typed_query&f=top)
