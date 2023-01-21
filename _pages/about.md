@@ -10,7 +10,7 @@ title: "About"
 <img src="/assets/images/CC_BY-SA_Logo.png">
 
 - CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)
-- (C) 2022-2023 Sasakulari, Sasakulab.
+- (C) 2022-2023 sasakulari, Sasakulab.
 
 なお、もしあなたがよければ、私のコンテンツを引用したドキュメントやウェブページについて教えてください。
 

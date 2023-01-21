@@ -69,7 +69,7 @@ author:
       url: "https://twitter.com/sasakulari"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Sasakulari"
+      url: "https://github.com/sasakulari"
 
 
 footer:
@@ -79,7 +79,7 @@ footer:
       url: "https://twitter.com/sasakulari"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Sasakulari"
+      url: "https://github.com/sasakulari"
 
 defaults:
   # _posts
