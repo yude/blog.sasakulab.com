@@ -16,9 +16,9 @@
 title: Sasakulab Blog
 email: i@sasakulab.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Sasakulab Blog is written by @ayato_sasakura. I write about my life.
-twitter_username: ayato_sasakura
-github_username: Sasakura-ayato
+  ささくらり が 書いてます。
+twitter_username: sasakulari
+github_username: sasakulari
 minimal_mistakes_skin: default
 search: true
 
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "佐桜 彩斗"
+  name   : "sasakulari"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A Senior High School Student."
   links:
@@ -66,20 +66,20 @@ author:
       url: "https://sasakulab.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ayato_sasakura"
+      url: "https://twitter.com/sasakulari"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Sasakura-ayato"
+      url: "https://github.com/Sasakulari"
 
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ayato_sasakura"
+      url: "https://twitter.com/sasakulari"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Sasakura-ayato"
+      url: "https://github.com/Sasakulari"
 
 defaults:
   # _posts
