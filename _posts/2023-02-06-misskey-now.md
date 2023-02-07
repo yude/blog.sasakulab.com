@@ -18,9 +18,11 @@ tags:
 
 インストールします。
 
-インストールしたいところですが、Chrome, Firefox ともに、審査が完了しなければ利用できない状況です。
-
-審査に通過すると、"Chrome ウェブストア" や "Firefox アドオン" からインストールが可能になります。やったぁ。
+|ソース|リンク|備考|
+|----|----|----|
+|Chrome ウェブストア|(審査中)||
+|Firefox Addons|[Misskey Now](https://addons.mozilla.org/ja/firefox/addon/misskey-now/)|Experimental|
+|GitHub Release|[GitHub](https://github.com/sasakulab/misskey-now)|開発者モードを有効化してインストールしてください|
 
 ちなみに、開発版をいち早く試したいあなたは、以下のリポジトリをクローンして、[chrome://extensions](chrome://extensions/) や [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox) よりディレクトリごと読み込むことで試すことができます。
 
@@ -92,7 +94,7 @@ GitHub の issue や Pull Requests、Misskey アカウントにお送りくだ�
 
 KusaReMKN さんが手伝ってくれました。
 
-JavaScript の `fetch` API の使い方がぐちゃぐちゃだったのを修正してくれたり、README を整備してくださったり。
+JavaScript の `fetch` API の使い方がぐちゃぐちゃだったのを修正してくれたり、README を整備してくださったり（Chrome 版が公開されてからマージします）。
 
 本当にありがとうございました。
 
@@ -101,3 +103,7 @@ JavaScript の `fetch` API の使い方がぐちゃぐちゃだったのを修�
 あなたも、たのしい Misskey ライフを！
 
 おわりです。
+
+## 使用したライブラリなど
+
+- BootStrap v5.0.2 (MIT LICENSE)
