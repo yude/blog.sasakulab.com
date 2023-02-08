@@ -20,8 +20,8 @@ tags:
 
 |ソース|リンク|備考|
 |----|----|----|
-|Chrome ウェブストア|(審査中)||
-|Firefox Addons|[Misskey Now](https://addons.mozilla.org/ja/firefox/addon/misskey-now/)|Experimental|
+|Chrome ウェブストア|[Misskey Now](https://chrome.google.com/webstore/detail/misskey-now/gaanhijofgiahpbmjelcfhccepcgbekh?hl=ja)||
+|Firefox Addons|[Misskey Now](https://addons.mozilla.org/ja/firefox/addon/misskey-now/)||
 |GitHub Release|[GitHub](https://github.com/sasakulab/misskey-now)|開発者モードを有効化してインストールしてください|
 
 ちなみに、開発版をいち早く試したいあなたは、以下のリポジトリをクローンして、[chrome://extensions](chrome://extensions/) や [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox) よりディレクトリごと読み込むことで試すことができます。
@@ -57,7 +57,7 @@ Settings を開き、`Host` にあなたのインスタンスのホスト名を�
 
 <img src="/assets/images/2023/mk004.png" width="300px">
 
-`Range` は公開範囲です。そう、Misskey で言う、あの地球儀マークとかのやつです。ダイレクト(Direct) は選べません。
+`Range` は公開範囲です。そう、Misskey で言う、あの地球儀マークとかのやつです。ダイレクト（Direct）は選べません。
 
 <img src="/assets/images/2023/mk005.png" width="300px">
 
