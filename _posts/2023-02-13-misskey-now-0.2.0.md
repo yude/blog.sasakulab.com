@@ -1,7 +1,8 @@
 ---
 title: "Misskey Now v0.2.0 公開のお知らせ"
-date: 2023-02-06T23:00:00+09:00
+date: 2023-02-13T09:00:00+09:00
 type: posts
+permalink: /tools/misskey-now/update/1
 categories:
   - tools
 tags:
