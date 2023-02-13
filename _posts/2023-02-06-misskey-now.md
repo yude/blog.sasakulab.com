@@ -12,7 +12,7 @@ tags:
 
 みなさん、こんにちは。#nowwatching なウェブサイトを Misskey へ簡単に投稿する \"Misskey Now\" を開発しました。
 
-v0.2.0 が公開されます。詳しくは[こちら](/_posts/2023-02-13-misskey-now-0.2.0.md)もご覧ください。
+v0.2.0 が公開されます。詳しくは[こちら](/tools/misskey-now/update/1)もご覧ください。
 
 ## 使い方
 
