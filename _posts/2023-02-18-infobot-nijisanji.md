@@ -10,7 +10,7 @@ tags:
   - にじさんじ
   - VTuber
 header:
-  image: "/assets/images/nijibot_header.png"
+  image: "/assets/images/header/nijibot_header.png"
 ---
 
 もうすぐ始まる「にじさんじ」ライバーの配信をお知らせする Misskey ボットを作成しました。
