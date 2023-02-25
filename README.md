@@ -12,6 +12,15 @@ jekyll build && cp _redirects _site/_redirects
 
 Help: [Information](https://developers.cloudflare.com/pages/platform/redirects)
 
+
+## Launch
+
+`make serve`
+
+## 参考
+
+- https://tex2e.github.io/blog/ruby/jekyll-cannot-load-webrick
+
 ## LICENSE
 
 - Code: MIT LICENSE
