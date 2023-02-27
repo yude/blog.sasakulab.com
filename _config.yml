@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "sasakulari"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A Senior High School Student."
+  bio    : "コンピュータが好きな男の人"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,6 +71,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sasakulari"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "blog-sasakulab-com"
 
 footer:
   links:
@@ -89,11 +93,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
       share: true
       related: true
       permalink: /:categories/:slug
+      comments: true
 
   # _pages
   - scope:
@@ -109,8 +113,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "sasakulari"
